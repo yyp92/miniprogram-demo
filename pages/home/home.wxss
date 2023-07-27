@@ -99,3 +99,51 @@
   padding-right: 15px;
 }
 
+
+
+/* WeUi 组件 */
+/* 上下布局 */
+.list-item {
+  background-color: #82c2f7;
+  height: 100px;
+  text-align: center;
+  border:1px solid #bdd2f8;
+}
+
+/* 左右布局 */
+.flex-box {
+  display: flex;
+}
+
+/* 左右平分布局 */
+.list-item {
+  flex:1;
+}
+
+/* 让组件内的内容垂直居中 */
+.list-item {
+  display: flex;
+  /* 垂直居中 */
+  align-items:center;
+  /* 水平居中 */
+  justify-content: center;
+}
+
+.hw__h3 {
+  color:#1772cb;
+}
+
+/* 自己写的样式 */
+#news-list .news-item {
+  margin: 15rpx;
+  padding: 15rpx;
+  border-bottom: 1rpx solid #ccc
+  }
+#news-list .news-img image {
+  width: 100%;
+  }
+#news-list .news-desc {
+  width: 100%;
+}
+
+

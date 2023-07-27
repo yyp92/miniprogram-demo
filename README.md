@@ -10,3 +10,6 @@
 - [image组件技术文档](https://developers.weixin.qq.com/miniprogram/dev/component/image.html)
 - [尺寸单位rpx](https://developers.weixin.qq.com/miniprogram/dev/framework/view/wxss.html)
 - [image组件技术文档](https://developers.weixin.qq.com/miniprogram/dev/component/image.html)
+- [weui文档](https://weui.io/)
+- [weui 微信开放文档](https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/extended/weui/)
+- [微信小程序设计指南](https://developers.weixin.qq.com/miniprogram/design/?t=2018724)

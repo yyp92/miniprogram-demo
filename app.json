@@ -2,6 +2,11 @@
   "pages": [
     "pages/home/home",
     "pages/home/imgshow/imgshow",
+    "pages/home/gradient/gradient",
+    "pages/home/filter/filter",
+    "pages/home/transform/transform",
+    "pages/home/transition/transition",
+
     "pages/list/list",
     "pages/partner/partner",
     "pages/more/more"
