@@ -6,6 +6,9 @@
     "pages/home/filter/filter",
     "pages/home/transform/transform",
     "pages/home/transition/transition",
+    "pages/home/movie/movie",
+    "pages/home/list/list",
+    "pages/home/condition/condition",
 
     "pages/list/list",
     "pages/partner/partner",

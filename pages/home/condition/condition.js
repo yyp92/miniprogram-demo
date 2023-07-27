@@ -1,11 +1,23 @@
-// pages/home/home.js
+// pages/home/condition/condition.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    
+    male: 22,
+    female: 9,
+    // female: '9',
+
+    // show: true,
+    // 数字不是0，因为1==true
+    // show: 1,
+    // 字符串非空，因为 'yes' == true
+    // show: 'yes',
+    // 非空数组，因为 ["ok"] == true
+    show: ["ok"],
+
+    login: false
   },
 
   /**

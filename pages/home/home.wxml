@@ -1,9 +1,10 @@
 <!--pages/home/home.wxml-->
 
 <!-- navigator 组件 -->
-<!-- <view class="index-link">
+<view class="index-link">
   <navigator url="./../home/imgshow/imgshow" class="item-link">让小程序显示图片</navigator>
-</view> -->
+</view>
+
 <view class="index-link">
   <navigator url="./../home/gradient/gradient" class="item-link">gradient</navigator>
 </view>
@@ -18,6 +19,18 @@
 
 <view class="index-link">
   <navigator url="./../home/transition/transition" class="item-link">transition 和 animation</navigator>
+</view>
+
+<view class="index-link">
+  <navigator url="./../home/movie/movie" class="item-link">movie</navigator>
+</view>
+
+<view class="index-link">
+  <navigator url="./../home/list/list" class="item-link">列表渲染</navigator>
+</view>
+
+<view class="index-link">
+  <navigator url="./../home/condition/condition" class="item-link">条件渲染</navigator>
 </view>
 
 
