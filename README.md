@@ -13,3 +13,7 @@
 - [weui文档](https://weui.io/)
 - [weui 微信开放文档](https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/extended/weui/)
 - [微信小程序设计指南](https://developers.weixin.qq.com/miniprogram/design/?t=2018724)
+- [轮播组件swiper](https://developers.weixin.qq.com/miniprogram/dev/component/swiper.html)
+- [audio组件技术文档](https://developers.weixin.qq.com/miniprogram/dev/component/audio.html)
+- [video组件技术文档](https://developers.weixin.qq.com/miniprogram/dev/component/video.html)
+- [腾讯地图坐标拾取器](https://lbs.qq.com/getPoint/)

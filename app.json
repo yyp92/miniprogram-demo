@@ -9,6 +9,10 @@
     "pages/home/movie/movie",
     "pages/home/list/list",
     "pages/home/condition/condition",
+    "pages/home/swiper/swiper",
+    "pages/home/audio/audio",
+    "pages/home/video/video",
+    "pages/home/map/map",
 
     "pages/list/list",
     "pages/partner/partner",

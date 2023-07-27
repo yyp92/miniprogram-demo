@@ -33,6 +33,22 @@
   <navigator url="./../home/condition/condition" class="item-link">条件渲染</navigator>
 </view>
 
+<view class="index-link">
+  <navigator url="./../home/swiper/swiper" class="item-link">swiper 轮播</navigator>
+</view>
+
+<view class="index-link">
+  <navigator url="./../home/audio/audio" class="item-link">audio 音频</navigator>
+</view>
+
+<view class="index-link">
+  <navigator url="./../home/video/video" class="item-link">video 视频</navigator>
+</view>
+
+<view class="index-link">
+  <navigator url="./../home/map/map" class="item-link">map 地图</navigator>
+</view>
+
 
 
 <!-- weui组件 -->
