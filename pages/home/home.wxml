@@ -66,6 +66,19 @@
   <navigator url="./../home/tapevent/tapevent" class="item-link">点击事件</navigator>
 </view>
 
+<view class="index-link">
+  <navigator url="./../home/data/data" class="item-link">页面渲染</navigator>
+</view>
+
+<view class="index-link">
+  <navigator
+    id="detailshow"
+    url="./../home/detail/detail?id=lesson&uid=tcb&key=tap&ENV=weapp&frompage=lifecycle"
+    class="item-link"
+  >携带数据与跨页面渲染</navigator>
+</view>
+
+
 
 <!-- navigator 组件包裹图片链接 -->
 <!-- <view class="event-list">

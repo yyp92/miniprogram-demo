@@ -32,4 +32,6 @@
 - [短振动技术文档](https://developers.weixin.qq.com/miniprogram/dev/api/device/vibrate/wx.vibrateShort.html)
 - [弹出菜单技术文档](https://developers.weixin.qq.com/miniprogram/dev/api/ui/interaction/wx.showActionSheet.html)
 - [页面路由技术文档](https://developers.weixin.qq.com/miniprogram/dev/framework/app-service/route.html)
+- [事件对象](https://juejin.cn/book/6897486502482149376/section/6897521731389849607)
+- [新增的页面间通信接口](https://developers.weixin.qq.com/miniprogram/dev/api/route/wx.navigateTo.html)
 

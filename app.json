@@ -16,6 +16,9 @@
     "pages/home/map/map",
     "pages/home/user/user",
     "pages/home/tapevent/tapevent",
+    "pages/home/data/data",
+    "pages/home/detail/detail",
+    "pages/home/movieDetail/movieDetail",
 
     "pages/list/list",
     "pages/partner/partner",
