@@ -62,6 +62,10 @@
   <navigator url="./../home/user/user" class="item-link">获取用户信息</navigator>
 </view>
 
+<view class="index-link">
+  <navigator url="./../home/tapevent/tapevent" class="item-link">点击事件</navigator>
+</view>
+
 
 <!-- navigator 组件包裹图片链接 -->
 <!-- <view class="event-list">

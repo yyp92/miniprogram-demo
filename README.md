@@ -25,4 +25,11 @@
 - [小程序的转发](https://developers.weixin.qq.com/miniprogram/dev/reference/api/Page.html#onShareAppMessage-Object-object)
 - [微信公众平台网页版客服工具](https://mpkf.weixin.qq.com/)
 - [API技术文档](https://developers.weixin.qq.com/miniprogram/dev/api/)
+- [滚动API技术文档](https://developers.weixin.qq.com/miniprogram/dev/api/ui/scroll/wx.pageScrollTo.html)
+- [消息提示技术文档](https://developers.weixin.qq.com/miniprogram/dev/api/ui/interaction/wx.showToast.html)
+- [模态对话框技术文档](https://developers.weixin.qq.com/miniprogram/dev/api/ui/interaction/wx.showModal.html)
+- [长振动技术文档](https://developers.weixin.qq.com/miniprogram/dev/api/device/vibrate/wx.vibrateLong.html)
+- [短振动技术文档](https://developers.weixin.qq.com/miniprogram/dev/api/device/vibrate/wx.vibrateShort.html)
+- [弹出菜单技术文档](https://developers.weixin.qq.com/miniprogram/dev/api/ui/interaction/wx.showActionSheet.html)
+- [页面路由技术文档](https://developers.weixin.qq.com/miniprogram/dev/framework/app-service/route.html)
 

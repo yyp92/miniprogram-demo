@@ -15,6 +15,7 @@
     "pages/home/video/video",
     "pages/home/map/map",
     "pages/home/user/user",
+    "pages/home/tapevent/tapevent",
 
     "pages/list/list",
     "pages/partner/partner",
