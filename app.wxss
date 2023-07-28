@@ -10,3 +10,10 @@
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
+
+/* 公共尾部 */
+.page-foot {
+  height: 40px;
+  background-color: aqua;
+  position: relative;
+}

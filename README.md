@@ -17,3 +17,12 @@
 - [audio组件技术文档](https://developers.weixin.qq.com/miniprogram/dev/component/audio.html)
 - [video组件技术文档](https://developers.weixin.qq.com/miniprogram/dev/component/video.html)
 - [腾讯地图坐标拾取器](https://lbs.qq.com/getPoint/)
+- [Map组件技术文档](https://developers.weixin.qq.com/miniprogram/dev/component/map.html)
+- [微信开发者工具快捷键](https://developers.weixin.qq.com/miniprogram/dev/devtools/shortcut.html)
+- [Mac快捷键](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+- [Windows快捷键](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [官方文档关于自动补全](https://developers.weixin.qq.com/miniprogram/dev/devtools/edit.html#%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8)
+- [小程序的转发](https://developers.weixin.qq.com/miniprogram/dev/reference/api/Page.html#onShareAppMessage-Object-object)
+- [微信公众平台网页版客服工具](https://mpkf.weixin.qq.com/)
+- [API技术文档](https://developers.weixin.qq.com/miniprogram/dev/api/)
+
