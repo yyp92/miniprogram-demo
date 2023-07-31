@@ -1,11 +1,13 @@
 // pages/home/uesr/uesr.js
+const app = getApp()
+
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-
+    userInfo: {}
   },
 
   /**
@@ -62,5 +64,19 @@ Page({
    */
   onShareAppMessage() {
 
-  }
+  },
+
+  /**
+   * 获取用户信息
+   */
+  getUserInfomation: function (event) {
+    // console.log('getUserInfomation打印的事件对象',event)
+
+    // 在getUserInfomation将获取到的用户信息传给globalData的userInfo属性
+    app.globalData.userInfo = event.detail.userInfo
+
+    this.setData({ 
+      userInfo: event.detail.userInfo, 
+    })
+  },
 })

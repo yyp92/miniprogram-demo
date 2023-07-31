@@ -1,5 +1,15 @@
 # 微信小程序练习
 
+## 目录结构
+```bash
+miniprogram // 小程序根目录
+├── pages   // 存放页面的文件夹
+└── images  // 存放图片的文件夹
+└── style   // 存放css样式的文件夹 
+└── utils   // 存放模块的文件夹
+│   └── base.js
+```
+
 ## 资料
 - [小程序全局配置](https://developers.weixin.qq.com/miniprogram/dev/reference/configuration/app.html)
 - [pages配置项](https://developers.weixin.qq.com/miniprogram/dev/reference/configuration/app.html#pages)
@@ -34,4 +44,11 @@
 - [页面路由技术文档](https://developers.weixin.qq.com/miniprogram/dev/framework/app-service/route.html)
 - [事件对象](https://juejin.cn/book/6897486502482149376/section/6897521731389849607)
 - [新增的页面间通信接口](https://developers.weixin.qq.com/miniprogram/dev/api/route/wx.navigateTo.html)
+- [场景值列表](https://developers.weixin.qq.com/miniprogram/dev/reference/scene-list.html)
+- [获取用户登录凭证wx.login](https://developers.weixin.qq.com/miniprogram/dev/api/open-api/login/wx.login.html)
+- [权限设置authSetting](https://juejin.cn/book/6897486502482149376/section/6897524875364139019)
+- [获取用户当前权限设置wx.getSetting](https://developers.weixin.qq.com/miniprogram/dev/api/open-api/setting/wx.getSetting.html)
+- [auth.code2session](https://developers.weixin.qq.com/miniprogram/dev/OpenApiDoc/user-login/code2Session.html)
+- [userInfo对象](https://developers.weixin.qq.com/miniprogram/dev/api/open-api/user-info/UserInfo.html)
+- [getApp()](https://developers.weixin.qq.com/miniprogram/dev/reference/api/getApp.html)
 

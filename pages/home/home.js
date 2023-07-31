@@ -105,6 +105,13 @@ Page({
     //     wx.startRecord()
     //   }
     // })
+
+
+    // 通过 getApp() 获取 globalData
+    // const app = getApp()
+    // console.log('user页面打印的app', app)
+    // console.log('user页面打印的globalData', app.globalData.userInfo)
+    // console.log('user页面打印的tcbData',app.tcbData.eventInfo)
   },
 
   /**
@@ -154,5 +161,23 @@ Page({
    */
   onShareAppMessage() {
 
+  },
+
+  /**
+   * 页面滚动触发事件的处理函数
+   */
+  onPageScroll: function() {
+  },
+
+  /**
+   * 页面尺寸改变时触发
+   */
+  onResize: function() {
+  },
+
+  /**
+   * 当前是 tab 页时，点击 tab 时触发
+   */
+  onTabItemTap: function() {
   }
 })
